@@ -1,2 +1,2 @@
-Varejista,CNPJ Varejista,Descrição da Cobrança,Conteúdo Informativo,Número da Nota Fiscal,Número do Pedido,Valor a Cobrar,Data Limite (prazo máximo),Cobrança Parcial,Valor Confirmado,Status,Última Data de Liquidação
-LOJA 1,11111111000111,Venda de mercadorias,"NF 1001 / Pedido 5001",1001,PED-5001,10000,20/10/2025,S,10000,LIQUIDADO,20/10/2025
+Varejista,CNPJ Varejista,Descrição da Cobrança,Conteúdo Informativo,Número da Nota Fiscal,Número do Pedido,Valor a Cobrar,Data Limite (prazo máximo),Cobrança Parcial,Status,Valor Confirmado,Última Data de Liquidação
+LOJA 1,11111111000111,Venda de mercadorias,"NF 1001 / Pedido 5001",1001,PED-5001,10000,20/10/2025,S,LIQUIDADO,10000,20/10/2025
